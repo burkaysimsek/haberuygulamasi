@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "751433926479",
+    "firebase_url": "https://haber-2438.firebaseio.com",
+    "project_id": "haber-2438",
+    "storage_bucket": "haber-2438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751433926479:android:471e6b351c23edee41e73a",
+        "android_client_info": {
+          "package_name": "com.example.haber_adminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751433926479-6eseemhpgemnacl8509ulenlqgag4412.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSRgJublO1H-UxwQezAGf_gv9Vkg2H4Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751433926479-6eseemhpgemnacl8509ulenlqgag4412.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
